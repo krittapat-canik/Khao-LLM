@@ -1,2 +1,2 @@
 # Khao-LLM
-khao LLM based on LLAMA 
+khao LLM based on LLAMA .
